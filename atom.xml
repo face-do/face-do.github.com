@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Ruby開発備忘録]]></title>
-  <link href="http://face-do.github.io/face-do/atom.xml" rel="self"/>
-  <link href="http://face-do.github.io/face-do/"/>
-  <updated>2013-08-18T00:54:14+09:00</updated>
-  <id>http://face-do.github.io/face-do/</id>
+  <link href="http://face-do.github.io//atom.xml" rel="self"/>
+  <link href="http://face-do.github.io//"/>
+  <updated>2013-08-18T01:32:29+09:00</updated>
+  <id>http://face-do.github.io//</id>
   <author>
     <name><![CDATA[face-do]]></name>
     
@@ -14,22 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://face-do.github.io/face-do/blog/2013/08/18/hello-world/"/>
-    <updated>2013-08-18T00:00:00+09:00</updated>
-    <id>http://face-do.github.io/face-do/blog/2013/08/18/hello-world</id>
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://face-do.github.io//blog/2013/08/18/hello-world/"/>
+    <updated>2013-08-18T00:49:00+09:00</updated>
+    <id>http://face-do.github.io//blog/2013/08/18/hello-world</id>
     <content type="html"><![CDATA[<h2>new blog</h2>
 
 <p>新しいブログをスタートしてみたよ。</p>
-
-<hr />
-
-<p>layout: post
-title: &ldquo;hello world&rdquo;
-date: 2013-08-18 00:49
-comments: true</p>
-
-<h2>categories: </h2>
 ]]></content>
   </entry>
   

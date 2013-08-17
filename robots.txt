@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://face-do.github.io/face-do/sitemap.xml 
+Sitemap: http://face-do.github.io//sitemap.xml 
